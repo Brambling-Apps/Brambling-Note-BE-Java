@@ -1,0 +1,6 @@
+[submodule "user"]
+	path = user
+	url = git@github.com:Brambling-Apps/Brambling-Note-BE-Java-User.git
+[submodule "note"]
+	path = note
+	url = git@github.com:Brambling-Apps/Brambling-Note-BE-Java-Note.git
