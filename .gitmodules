@@ -4,3 +4,6 @@
 [submodule "note"]
 	path = note
 	url = git@github.com:Brambling-Apps/Brambling-Note-BE-Java-Note.git
+[submodule "auth"]
+	path = auth
+	url = git@github.com:Brambling-Apps/Brambling-Note-BE-Java-Auth.git
